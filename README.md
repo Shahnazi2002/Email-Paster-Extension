@@ -1,2 +1,2 @@
 # Email-Paster-Extension
-A Firefox extension to paste my email address in input fields
+A Firefox extension to paste your email address in input fields
