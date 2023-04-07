@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Email Paster",
+  "version": "1.0",
+  "description": "A Firefox extension to paste your email address in input fields.",
+  "permissions": [
+    "activeTab",
+    "contextMenus",
+    "tabs"
+  ],
+  "icons": {
+    "28": "icon-28.png",
+    "56": "icon-56.png"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
