@@ -6,13 +6,18 @@
   "permissions": [
     "activeTab",
     "contextMenus",
-    "tabs"
-  ],
+    "tabs",
+    "storage"
+  ],  
   "icons": {
     "28": "icon-28.png",
     "56": "icon-56.png"
   },
   "background": {
     "scripts": ["background.js"]
+  },
+  "options_ui": {
+    "page": "options.html",
+    "browser_style": true
   }
 }
