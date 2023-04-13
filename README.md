@@ -1,5 +1,6 @@
 # Email-Paster-Extension
 A Firefox extension to paste your email address in input fields
+<br/><br/>![1](https://raw.githubusercontent.com/Shahnazi2002/Email-Paster-Extension/main/Screenshots/Screenshot%201.png)
 
 # How to set email address:
 1- Navigating to "about:addons" in the address bar for access the "Add-ons Manager"
@@ -7,3 +8,5 @@ A Firefox extension to paste your email address in input fields
 2- Select "Email Paster" from list of extensions and choose "Options" tab
 
 3- Enter a valid email address in the relevant field and click on the "SAVE" button
+
+<br/><br/>![2](https://raw.githubusercontent.com/Shahnazi2002/Email-Paster-Extension/main/Screenshots/Screenshot%202.png)
